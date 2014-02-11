@@ -1,0 +1,22 @@
+/*
+Theme Name:   wp-starter
+Theme URI:    http://wpstarter.themeawesome.com/
+Description:  A child theme for WP-Forge
+Author:       Thomas E. Vasquez
+Author URI:   http://themeawesome.com/
+Template:     wp-forge
+Version:      v5.0.3
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  wpstarter
+*/
+
+/* Make sure to view the readme.txt file for proper installation. */
+
+@import url("../wp-forge/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
