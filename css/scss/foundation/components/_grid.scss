@@ -4,9 +4,10 @@
 // @variables
 //
 $include-html-grid-classes: $include-html-classes !default;
-$include-xl-html-grid-classes: false !default;
+$include-xl-html-grid-classes: true !default;
 
-$row-width: rem-calc(1000) !default;
+//$row-width: rem-calc(1200) !default;
+$row-width: 100% !default;
 $column-gutter: rem-calc(30) !default;
 $total-columns: 12 !default;
 
